@@ -8,6 +8,6 @@ public class Task2 {
         String phrase1 = sc.nextLine();
         System.out.println("Where are you live, " + phrase1);
         String phrase2 = sc.nextLine();
-        System.out.println("My name is " + phrase1 + " I live in " + phrase2);
+        System.out.println("My name i " + phrase1 + " I live in " + phrase2);
     }
 }
