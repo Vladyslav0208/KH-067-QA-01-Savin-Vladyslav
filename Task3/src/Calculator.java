@@ -8,10 +8,10 @@ public class Calculator {
 
         System.out.print("Please Enter your first digit: ");
 
-        fnum=input.nextInt();
+        fnum=input.nextDouble();
 
         System.out.print("Enter the second digit: ");
-        snum=input.nextInt();
+        snum=input.nextDouble();
 		/*This receive input from user
 		it receive the second number*/
 
